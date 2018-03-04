@@ -16,3 +16,4 @@ Augmented Reality for Guidance:
  2. main.m - Demo/Breakdown of each step to visualize different pre-processing steps
  3. liveAR.m - Uses a camera live feed to find a reference object, and replaces that object with target video
  4. generateVideo.m - Saves the above live feed into a video file (.mp4)
+ 5. cameraCalibration.m - To obtain camera intrinsic and extrinsic paramters and calibrate them to remove errors 
